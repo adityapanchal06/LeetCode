@@ -7,6 +7,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adityapanchal06/LeetCode/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adityapanchal06/LeetCode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/adityapanchal06/LeetCode/tree/master/0344-reverse-string) |
 ## String
