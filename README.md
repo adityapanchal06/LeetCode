@@ -10,6 +10,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityapanchal06/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityapanchal06/LeetCode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0027-remove-element](https://github.com/adityapanchal06/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityapanchal06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/adityapanchal06/LeetCode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/adityapanchal06/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -71,4 +73,8 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0112-path-sum) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
