@@ -10,6 +10,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityapanchal06/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityapanchal06/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -87,4 +88,8 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityapanchal06/LeetCode/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
