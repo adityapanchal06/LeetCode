@@ -32,12 +32,14 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0075-sort-colors](https://github.com/adityapanchal06/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/adityapanchal06/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/adityapanchal06/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/adityapanchal06/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/adityapanchal06/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityapanchal06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/adityapanchal06/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/adityapanchal06/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/adityapanchal06/LeetCode/tree/master/0567-permutation-in-string) |
 ## Math
