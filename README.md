@@ -14,6 +14,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0033-search-in-rotated-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/adityapanchal06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/adityapanchal06/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/adityapanchal06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adityapanchal06/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/adityapanchal06/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -113,6 +114,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/adityapanchal06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/adityapanchal06/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
@@ -138,4 +140,8 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityapanchal06/LeetCode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityapanchal06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
