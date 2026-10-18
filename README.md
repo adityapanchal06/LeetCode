@@ -19,6 +19,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0074-search-a-2d-matrix](https://github.com/adityapanchal06/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adityapanchal06/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityapanchal06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityapanchal06/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -26,6 +27,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | ------- |
 | [0001-two-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adityapanchal06/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/adityapanchal06/LeetCode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -77,6 +79,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityapanchal06/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/adityapanchal06/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityapanchal06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
@@ -106,6 +109,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0015-3sum](https://github.com/adityapanchal06/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/adityapanchal06/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -162,4 +166,12 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adityapanchal06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
