@@ -23,12 +23,14 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityapanchal06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityapanchal06/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/adityapanchal06/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adityapanchal06/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/adityapanchal06/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityapanchal06/LeetCode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -177,4 +179,8 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adityapanchal06/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
