@@ -55,6 +55,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityapanchal06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/adityapanchal06/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adityapanchal06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adityapanchal06/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/adityapanchal06/LeetCode/tree/master/0344-reverse-string) |
@@ -66,6 +67,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0002-add-two-numbers](https://github.com/adityapanchal06/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/adityapanchal06/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adityapanchal06/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/adityapanchal06/LeetCode/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -92,6 +94,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adityapanchal06/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/adityapanchal06/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/adityapanchal06/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Tree
@@ -171,6 +174,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityapanchal06/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/adityapanchal06/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
