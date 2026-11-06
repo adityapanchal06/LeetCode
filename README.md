@@ -100,18 +100,22 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityapanchal06/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityapanchal06/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityapanchal06/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adityapanchal06/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adityapanchal06/LeetCode/tree/master/0112-path-sum) |
 ## Sorting
 |  |
