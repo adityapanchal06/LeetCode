@@ -21,6 +21,7 @@ LeetCode solutions in C++ | DSA &amp; Problem Solving
 | [0075-sort-colors](https://github.com/adityapanchal06/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityapanchal06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityapanchal06/LeetCode/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/adityapanchal06/LeetCode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adityapanchal06/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adityapanchal06/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/adityapanchal06/LeetCode/tree/master/0560-subarray-sum-equals-k) |
